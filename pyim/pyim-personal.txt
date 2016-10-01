@@ -1,0 +1,3 @@
+;; -*- coding: utf-8 -*-
+c-b 肏屄
+cao-bi 肏屄
